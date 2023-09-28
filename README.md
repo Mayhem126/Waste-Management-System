@@ -1,5 +1,7 @@
 # Waste Management App
 
+Deploy Link - https://waste-management-system-507g.onrender.com/
+
 Application to save information on waste generated through a form. The user accesses a main view where he / she can file a complaint and fill personal information as well.
 
 Then, the administrator can log in and access the Admin view, where all the tickets with information about the waste generated can be found 
